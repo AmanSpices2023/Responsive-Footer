@@ -1,0 +1,15 @@
+{
+  "name": "reuseable-paralex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node-sass scss/footer.scss css/footer.css --w  --source-map true --output-style compressed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
